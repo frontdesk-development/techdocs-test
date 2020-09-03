@@ -1,0 +1,8 @@
+site_name: techdocs-test
+site_description: testing the techdocs plugin
+
+nav: 
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
